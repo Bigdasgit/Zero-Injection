@@ -14,7 +14,7 @@ This repository provides a reference implementation of *Zero-Injection* as descr
 ### Cite
 We encourage you to cite our paper if you have used the code in your work. You can use the following BibTex citation:
 ```
-@inproceedings{hwa16,
+@inproceedings{HwangPKLL16,
   title     = {"Told You I Didn't Like It": Exploiting Uninteresting Items for Effective Collaborative Filtering},
   author    = {Hwang, Won-Seok and Parc, Juan and Kim, Sang-Wook and Lee, Jongwuk and Lee, Dongwon},
   booktitle = {2016 IEEE 32nd International Conference on Data Engineering},
